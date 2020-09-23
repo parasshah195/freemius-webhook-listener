@@ -1,4 +1,4 @@
-# freemius-webhook-listener-wp
+# freemius-webhook-listener
 A WordPress plugin for receiving and processing Freemius Webhook events to subscribe/unsubscribe users to Sendfox. Derived from https://github.com/Freemius/php-webhook-example
 
 This is specifically built to integrate with Sendfox's API structure. If you want to use it with any other email marketing service provide, you'll have to modify the `api.php` page's format/functions to suite the API's needs.
